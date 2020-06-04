@@ -1,4 +1,4 @@
-# Knight-Fintech
+# Wine Variety Prediction
 ML Assignment
 
 Hello
